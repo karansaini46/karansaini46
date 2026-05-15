@@ -1,18 +1,15 @@
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=karansaini46&theme=dark" alt="GitHub Streak" />
 
-## GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=karansaini46" alt="trophy" />
-
-## GitHub Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=karansaini46&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
 
 
 # Hello 👋, I'm karan
 ### Full stack developer
 
 Code. Ship. Scale. Repeat.
+
+## GitHub Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=karansaini46&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
 
 ## Skills
 
@@ -32,6 +29,12 @@ Code. Ship. Scale. Repeat.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>&nbsp;
 </p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=karansaini46&theme=dark" alt="GitHub Streak" />
+
+
+## GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=karansaini46" alt="trophy" />
 
 ## Projects
 

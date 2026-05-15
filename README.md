@@ -1,3 +1,14 @@
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=karansaini46&theme=dark" alt="GitHub Streak" />
+
+## GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=karansaini46" alt="trophy" />
+
+## GitHub Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=karansaini46&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
+
+
 # Hello 👋, I'm karan
 ### Full stack developer
 
@@ -40,17 +51,5 @@ InvoiceFlow  A full-stack invoice management app built with React, Express, and 
 
 ---
 
-## GitHub Stats
 
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=karansaini46&theme=dark" alt="GitHub Streak" />
-
-## GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=karansaini46" alt="trophy" />
-
-## GitHub Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=karansaini46&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
 

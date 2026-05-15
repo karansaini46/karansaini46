@@ -42,9 +42,7 @@ InvoiceFlow  A full-stack invoice management app built with React, Express, and 
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=karansaini46&show_icons=true&count_private=true&theme=dark" alt="GitHub İstatistikleri" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karansaini46&layout=compact&theme=dark" alt="En Çok Kullanılan Diller" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=karansaini46&theme=dark" alt="GitHub Streak" />
 

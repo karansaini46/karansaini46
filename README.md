@@ -7,7 +7,7 @@ full stack developer
 Full Stack Developer passionate about building scalable web applications and AI-powered products. I enjoy solving real-world problems with clean code, modern technologies, and thoughtful user experiences. Always learning, shipping, and improving.
 
 * 🌍  I'm based in india
-* 🖥️  See my portfolio at [my portfolio](http://portfolio-nine-murex-32.vercel.app/)
+* 🖥️  See my portfolio at [my portfolio](https://www.karanlabs.online/)
 * ✉️  You can contact me at [karan0saini23@gmail.com](mailto:karan0saini23@gmail.com)
 * 💬  Ask me about Full-stack developer passionate about building products that solve real problems. Always open to learning, shipping fast, and connecting with other builders.
 

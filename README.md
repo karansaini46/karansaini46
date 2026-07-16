@@ -10,7 +10,7 @@ full stack developer<br>Full Stack Developer passionate about building scalable 
 # 📊 GitHub Stats:
 ![](https://streak-stats.demolab.com/?user=karansaini46&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api?username=karansaini46&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=karansaini46&theme=dark&hide_border=false)<br/>
+
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=karansaini46&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
